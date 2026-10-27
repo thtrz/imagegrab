@@ -1,0 +1,2 @@
+/* 独立命名，尽量避免受到商品页面样式影响。 */
+#imagegrab-float { all: initial !important; position: fixed !important; right: 24px !important; bottom: 28px !important; z-index: 2147483646 !important; display: block !important; }
